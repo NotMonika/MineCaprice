@@ -1,0 +1,63 @@
+{
+  "_fv": 28,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "getoutofmyhead",
+    "customModelName": "Normal",
+    "name": "%",
+    "rarity": "COMMON",
+    "creativeTab": {
+      "value": "CUSTOM:TabMeme"
+    },
+    "stackSize": 1,
+    "enchantability": 0,
+    "useDuration": 0,
+    "toolType": 1.0,
+    "damageCount": 0,
+    "recipeRemainder": {
+      "value": ""
+    },
+    "destroyAnyBlock": false,
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "specialInfo": [
+      "Get out of my head.",
+      "Get out of my head.",
+      "Get out of my head.",
+      "Get out of my head. Get out of my head.",
+      "Get out of my head.",
+      "Get out of my head",
+      "Get out of my head.",
+      "Get out of my head. Get out of my head.",
+      "Get out of my head.  Get out of my head.",
+      "Get out of my head.",
+      "Get out of my head",
+      "Get out of my head. Get out of my head. Get out of my head. Get out of my head.",
+      "Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of Get. Out. Of.",
+      "My",
+      "Head.Get out of my head before I do what I know is best for you. Get out of my head before I listen to everything she said to me.",
+      "Get out of my head before I show you how much I love you.",
+      "Get out of my head before I finish writing this poem",
+      "But a poem is never actually finished",
+      "It just stops moving."
+    ],
+    "hasGlow": false,
+    "guiBoundTo": "<NONE>",
+    "inventorySize": 9,
+    "inventoryStackSize": 64,
+    "hasDispenseBehavior": false,
+    "isFood": false,
+    "nutritionalValue": 4,
+    "saturation": 0.3,
+    "eatResultItem": {
+      "value": ""
+    },
+    "isMeat": false,
+    "isAlwaysEdible": false,
+    "animation": "eat"
+  }
+}

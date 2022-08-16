@@ -17,6 +17,7 @@ import net.mcreator.minecaprice.item.TabMemeIconItem;
 import net.mcreator.minecaprice.item.SayoriItem;
 import net.mcreator.minecaprice.item.HuajiKArmorItem;
 import net.mcreator.minecaprice.item.HuajiItem;
+import net.mcreator.minecaprice.item.GetOutOfMyHeadItem;
 import net.mcreator.minecaprice.MinecapriceMod;
 
 public class MinecapriceModItems {
@@ -32,6 +33,7 @@ public class MinecapriceModItems {
 			() -> new HuajiKArmorItem.Leggings());
 	public static final RegistryObject<Item> HUAJI_K_ARMOR_BOOTS = REGISTRY.register("huaji_k_armor_boots", () -> new HuajiKArmorItem.Boots());
 	public static final RegistryObject<Item> SAYORI = REGISTRY.register("sayori", () -> new SayoriItem());
+	public static final RegistryObject<Item> GET_OUT_OF_MY_HEAD = REGISTRY.register("get_out_of_my_head", () -> new GetOutOfMyHeadItem());
 
 	private static RegistryObject<Item> block(RegistryObject<Block> block, CreativeModeTab tab) {
 		return REGISTRY.register(block.getId().getPath(), () -> new BlockItem(block.get(), new Item.Properties().tab(tab)));
