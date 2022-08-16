@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecaprice:huaji_block"
+    }
+  ],
+  "result": {
+    "item": "minecaprice:huaji",
+    "count": 9
+  }
+}

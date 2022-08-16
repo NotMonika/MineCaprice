@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "experience": 3.5,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "minecaprice:huaji_ore"
+  },
+  "result": "minecaprice:huaji"
+}

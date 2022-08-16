@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecaprice:huaji"
+    },
+    "1": {
+      "item": "minecaprice:huaji"
+    },
+    "2": {
+      "item": "minecaprice:huaji"
+    },
+    "3": {
+      "item": "minecaprice:huaji"
+    },
+    "4": {
+      "item": "minecaprice:huaji"
+    },
+    "5": {
+      "item": "minecaprice:huaji"
+    },
+    "6": {
+      "item": "minecaprice:huaji"
+    },
+    "7": {
+      "item": "minecaprice:huaji"
+    },
+    "8": {
+      "item": "minecaprice:huaji"
+    }
+  },
+  "result": {
+    "item": "minecaprice:huaji_block",
+    "count": 1
+  }
+}

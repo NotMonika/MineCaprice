@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "minecaprice:huaji"
+    },
+    "1": {
+      "item": "minecaprice:huaji"
+    },
+    "2": {
+      "item": "minecaprice:huaji"
+    },
+    "3": {
+      "item": "minecaprice:huaji"
+    },
+    "5": {
+      "item": "minecaprice:huaji"
+    }
+  },
+  "result": {
+    "item": "minecaprice:huaji_k_armor_helmet",
+    "count": 1
+  }
+}

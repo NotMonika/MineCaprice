@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "minecaprice:blocks/huaji_ore",
+    "particle": "minecaprice:blocks/huaji_ore"
+  }
+}

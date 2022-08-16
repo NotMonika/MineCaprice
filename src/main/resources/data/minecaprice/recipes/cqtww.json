@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 12",
+    "345",
+    "678"
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:string"
+    },
+    "2": {
+      "tag": "forge:meme_creator"
+    },
+    "3": {
+      "item": "minecaprice:huaji"
+    },
+    "4": {
+      "tag": "forge:heads"
+    },
+    "5": {
+      "item": "minecaprice:huaji"
+    },
+    "6": {
+      "item": "minecaprice:huaji"
+    },
+    "7": {
+      "item": "minecraft:armor_stand"
+    },
+    "8": {
+      "item": "minecaprice:huaji"
+    }
+  },
+  "result": {
+    "item": "minecaprice:sayori",
+    "count": 1
+  }
+}

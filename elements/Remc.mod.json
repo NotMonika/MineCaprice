@@ -1,0 +1,9 @@
+{
+  "_fv": 28,
+  "_type": "function",
+  "definition": {
+    "code": "setemc 1145 minecaprice:huaji\nreload",
+    "name": "remc",
+    "namespace": "mod"
+  }
+}

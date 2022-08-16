@@ -1,0 +1,46 @@
+{
+  "_fv": 28,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.STRING"
+      },
+      {
+        "value": "TAG:forge:meme_creator"
+      },
+      {
+        "value": "CUSTOM:Huaji"
+      },
+      {
+        "value": "Blocks.SKULL"
+      },
+      {
+        "value": "CUSTOM:Huaji"
+      },
+      {
+        "value": "CUSTOM:Huaji"
+      },
+      {
+        "value": "Items.ARMOR_STAND"
+      },
+      {
+        "value": "CUSTOM:Huaji"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Sayori"
+    },
+    "name": "cqtww",
+    "namespace": "mod"
+  }
+}
